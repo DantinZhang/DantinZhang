@@ -1,13 +1,13 @@
 
 
-<p align="center">
+<p>
 <h2 height="200px" align="center">Dantin Zhang <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h2>
-<h2 align="center">Learning is just a habit</h3>
+<h2>Learning is just a habit</h3>
 </p>
 
 
 
-<p align="center">
+<p>
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
   <!-- <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
