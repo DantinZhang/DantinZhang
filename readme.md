@@ -45,7 +45,6 @@
 # Github status
 
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=ForMyselfs&show_icons=true&theme=radical) 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?
 
 # 本周工作时长
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ForMyselfs&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
