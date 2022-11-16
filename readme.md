@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<h2 height="200px" align="center">Dantin Zhang<img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
+<h2 height="200px" align="center">Dantin Zhang 👋</h2>
 <h2 align="center">Learning is just a habit</h3>
 </p>
 
@@ -22,17 +22,10 @@
   <img src="https://img.shields.io/badge/wechat_miniprogram-09b955?style=flat&logo=wechat&logoColor=white">
   <img src="https://img.shields.io/badge/-less-bf608e?style=flat&logo=less&logoColor=white">
 </div>
-<p></p>
-<!--
-<div align="center">
-   <img src="https://img.shields.io/badge/-Express-%33A2?style=flat-square&logo=Express">
-</div>
--->
 
 <br />
 
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="300"/>
-
 
 
 # 工作经历
