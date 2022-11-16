@@ -1,14 +1,13 @@
 
 
 <p>
-<h2 height="200px" align="center">Dantin Zhang <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h2>
+<h2 height="200px">Dantin Zhang <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h2>
 <h2>Learning is just a habit</h3>
 </p>
 
 
 
-<p>
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
   <!-- <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
        <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
@@ -25,7 +24,6 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="300"/>
 
 
 # 工作经历
