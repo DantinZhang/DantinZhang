@@ -46,5 +46,8 @@
 
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=DantinZhang&show_icons=true&theme=radical) 
 
+![grid snake animation](./assets/github-user-contribution.svg)
 
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
