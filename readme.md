@@ -46,5 +46,4 @@
 
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=DantinZhang&show_icons=true&theme=radical) 
 
-![grid snake animation](./snake/github-user-contribution.svg)
 
