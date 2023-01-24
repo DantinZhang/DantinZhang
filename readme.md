@@ -38,7 +38,7 @@
 - 👨 杭州师范大学 - 硕士 - 管理科学与工程 - 自学前端转行
 - 💻 前端学习笔记：<a href="https://blog.csdn.net/weixin_42044763" target="_blank">CSDN：DantinZhang</a>
 - 🌝 哔哩哔哩 :<a href="https://space.bilibili.com/89821082" target="_blank">努力的但丁</a>
-- 🌝 小红书：努力的但丁
+- 🌝 小红书 ：努力的但丁
 - 学习他娘的只是一种习惯
 
 
