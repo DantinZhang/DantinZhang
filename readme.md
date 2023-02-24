@@ -30,7 +30,7 @@
 # 工作经历
 
 - 2022.10 - 2023.01    &nbsp;&nbsp;&nbsp;    杭州小公司     &nbsp;&nbsp;&nbsp;      前端开发工程师
-- 2023.04 - 2023.09    &nbsp;&nbsp;&nbsp;    进击某大厂     &nbsp;&nbsp;&nbsp;      前端开发工程师
+- 2023.04 - 2023.09    &nbsp;&nbsp;&nbsp;    进击某大厂！     &nbsp;&nbsp;&nbsp;      前端开发工程师
 
 # 个人介绍
 
