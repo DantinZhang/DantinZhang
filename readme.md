@@ -2,7 +2,7 @@
 
 <p>
 <h1 height="200px">DantinZhang <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>
-<h2>Learning is just a habit</h3>
+<h2>Learning is just a habit！</h3>
 </p>
 
 
