@@ -34,8 +34,8 @@
 
 # 个人介绍
 
-- 🏫 华北理工大学 - 本科 - 信息管理与信息系统
-- 🏢 杭州师范大学 - 硕士 - 管理科学与工程 - 自学前端转行
+- 🏫 华北理工大学 - 本科 - 信息管理与信息系统 - 科班
+- 🏢 杭州师范大学 - 硕士 - 管理科学与工程 - 非科班，重新自学前端
 - 💻 前端学习笔记：<a href="https://blog.csdn.net/weixin_42044763" target="_blank">CSDN：DantinZhang</a>
 - 📺 哔哩哔哩 :<a href="https://space.bilibili.com/89821082" target="_blank">努力的但丁</a>
 - 💟 小红书 ：努力的但丁
