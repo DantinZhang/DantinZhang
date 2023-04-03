@@ -39,7 +39,7 @@
 - 💻 前端学习笔记：<a href="https://blog.csdn.net/weixin_42044763" target="_blank">CSDN：DantinZhang</a>
 - 📺 哔哩哔哩 :<a href="https://space.bilibili.com/89821082" target="_blank">努力的但丁</a>
 - 💟 小红书 ：努力的但丁
-- ⚠️ 还有很多事情没做。
+- ⚠️ 机会只留给有准备的人。
 
 
 # Github status 
