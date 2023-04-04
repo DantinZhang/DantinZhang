@@ -39,10 +39,10 @@
 - 💻 前端学习笔记：<a href="https://blog.csdn.net/weixin_42044763" target="_blank">CSDN：DantinZhang</a>
 - 📺 哔哩哔哩 :<a href="https://space.bilibili.com/89821082" target="_blank">努力的但丁</a>
 - 💟 小红书 ：努力的但丁
-- ⚠️ 机会永远只留给有准备的人。
+- ⚠️ 机会永远只留给有准备的人
 
 
-# 欢迎来到我的世界
+# Welcom to my world !
 
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=DantinZhang&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DantinZhang&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
