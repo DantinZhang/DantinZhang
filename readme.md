@@ -29,8 +29,8 @@
 
 # 工作经历
 
+- 2023.04 - 2023.09    &nbsp;&nbsp;&nbsp;    上海小红书     &nbsp;&nbsp;&nbsp;      前端开发工程师
 - 2022.10 - 2023.01    &nbsp;&nbsp;&nbsp;    杭州小公司     &nbsp;&nbsp;&nbsp;      前端开发工程师
-- 2023.04 - 2023.09    &nbsp;&nbsp;&nbsp;    加油啊！！     &nbsp;&nbsp;&nbsp;      前端开发工程师
 
 # 个人介绍
 
