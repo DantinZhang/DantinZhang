@@ -17,17 +17,12 @@
   <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/wechat_miniprogram-09b955?style=flat&logo=wechat&logoColor=white">
   <br />
-  <div style="margin-top: 66px;"></div>
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
   <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
   <img src="https://img.shields.io/badge/-less-bf608e?style=flat&logo=less&logoColor=white">
 </div>
-
-<br />
-
-![](https://img.shields.io/badge/dynamic/json?color=fb7299&label=%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9&query=%24.data.follower&suffix=%E5%85%B3%E6%B3%A8&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D89821082)
 
 
 # 工作经历
@@ -36,6 +31,7 @@
 - 2022.10 - 2023.01    &nbsp;&nbsp;&nbsp;    杭州小公司     &nbsp;&nbsp;&nbsp;      前端开发工程师
 
 # 个人介绍
+![](https://img.shields.io/badge/dynamic/json?color=fb7299&label=%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9&query=%24.data.follower&suffix=%E5%85%B3%E6%B3%A8&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D89821082)
 
 - 🏫 华北理工大学 - 本科 - 信息管理与信息系统 - 科班
 - 🏢 杭州师范大学 - 硕士 - 管理科学与工程 - 半科班，重新自学前端
