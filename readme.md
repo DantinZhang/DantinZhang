@@ -33,7 +33,7 @@
 # 个人介绍
 &nbsp;&nbsp;![](https://img.shields.io/badge/dynamic/json?color=fb7299&label=%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9&query=%24.data.follower&suffix=%E5%85%B3%E6%B3%A8&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D89821082)
 
-- 🏫 华北理工大学 - 本科 - 信息管理与信息系统 - 科班
+- 🏢 华北理工大学 - 本科 - 信息管理与信息系统 - 科班
 - 🏢 杭州师范大学 - 硕士 - 管理科学与工程 - 半科班，重新自学前端
 - 💻 前端学习笔记：<a href="https://blog.csdn.net/weixin_42044763" target="_blank">CSDN：DantinZhang</a>
 - 📺 哔哩哔哩 :<a href="https://space.bilibili.com/89821082" target="_blank">努力的但丁</a>
