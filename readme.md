@@ -38,7 +38,7 @@
 - 🏢 杭州师范大学 - 硕士 - 管理科学与工程 - 半科班，重新自学前端
 - 💻 前端学习笔记：<a href="https://blog.csdn.net/weixin_42044763" target="_blank">CSDN：DantinZhang</a>
 - 📺 哔哩哔哩 :<a href="https://space.bilibili.com/89821082" target="_blank">努力的但丁</a>
-- 📕 小红书 ：努力的但丁
+- 📕 小红书 ：<a href="https://www.xiaohongshu.com/user/profile/60f4d52400000000010153e9" target="_blank">努力的但丁</a>
 - ⚠️ 机会永远只留给有准备的人！
 
 
