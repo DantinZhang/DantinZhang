@@ -27,7 +27,7 @@
 
 # 工作经历
 
-- 2024.06 - Future！  &nbsp;&nbsp;    北京冲冲冲    &nbsp;&nbsp;&nbsp;     前端开发工程师
+- 2024.06 - Future！  &nbsp;&nbsp;    北京小红书    &nbsp;&nbsp;&nbsp;     前端开发工程师
 - 2023.03 - 2023.09    &nbsp;&nbsp;&nbsp;    上海小红书     &nbsp;&nbsp;&nbsp;      前端开发工程师
 - 2022.10 - 2023.02    &nbsp;&nbsp;&nbsp;    杭州小公司     &nbsp;&nbsp;&nbsp;      前端开发工程师
 
