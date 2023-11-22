@@ -29,7 +29,7 @@
 
 - 2024.07 - Future！  &nbsp;&nbsp;    北京小红书    &nbsp;&nbsp;&nbsp;     前端开发工程师
 - 2023.03 - 2023.09    &nbsp;&nbsp;&nbsp;    上海小红书     &nbsp;&nbsp;&nbsp;      前端开发工程师
-- 2022.10 - 2023.02    &nbsp;&nbsp;&nbsp;    杭州小公司     &nbsp;&nbsp;&nbsp;      前端开发工程师
+- 2022.10 - 2023.02    &nbsp;&nbsp;&nbsp;    杭州某公司     &nbsp;&nbsp;&nbsp;      前端开发工程师
 
 # 个人介绍
 ![](https://img.shields.io/badge/dynamic/json?color=fb7299&label=%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9&query=%24.data.follower&suffix=%E5%85%B3%E6%B3%A8&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D89821082)
